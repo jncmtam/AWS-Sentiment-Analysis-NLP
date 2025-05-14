@@ -1,6 +1,30 @@
+# Core ML & NLP
 torch
 transformers
 datasets
-scikit-learn
+tokenizers
+
+# Data processing
+pandas
 numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
 tqdm
+
+# Optional: for experiment tracking
+tensorboard
+wandb
+
+# Deployment (optional)
+fastapi
+uvicorn[standard]
+
+# Optional NLP utils
+nltk
+spacy
+
+# Others
+pyyaml
