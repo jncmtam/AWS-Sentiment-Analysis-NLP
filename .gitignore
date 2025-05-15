@@ -32,3 +32,4 @@ tmp/
 Pipfile.lock
 poetry.lock
 data/
+pyvenv/
