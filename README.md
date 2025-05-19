@@ -75,3 +75,12 @@ Detailed metrics for each class are presented below:
 ### 7. `Conclusion`
 
 The DistilBERT-based sentiment analysis model achieves strong performance with an accuracy of 87.75% and balanced metrics across classes. The training process indicates effective learning and generalization, making it a solid foundation for sentiment classification applications.
+
+### Author : `Chu Minh Tam` - ML/NLP Researcher
+
+### Contact :
+
+- jn.cmtam@gmail.com
+- tam.chu2213009cs@hcmut.edu.vn
+- +84 327628468
+
